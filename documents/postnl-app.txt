@@ -1,0 +1,19 @@
+POSTNL-APP
+
+Klant: PostNL
+Branche: Transport en logistiek
+Soort werk: App
+Lancering: 2015
+
+De oude PostNL app was aan vervanging toe. Het was een hybride app. Dat doen we zelf ook wel eens, en daarom weten we wanneer je hybride wel en niet moet toepassen. In het geval van PostNL vonden wij een native app een beter idee.
+
+Native vs hybride
+Voor zo’n veelgebruikte, informatieve app is het verstandig om UI-patterns toe te passen die de gebruiker al kent. Als gebruiker wil je namelijk snel toegang tot de informatie die je nodig hebt. Dit betekent dat de app vaak niet langer open is dan een paar seconden. Je zou denken dat het dan niet zoveel voor hoeft te stellen, maar juist dit gegeven legt de lat een stuk hoger. Die paar seconden wil je je niet afvragen waar de informatie staat die je nodig hebt of moeten wachten tot informatie ingeladen is.
+
+Met native ontwikkeling krijg je die bekende UI-componenten vrijwel kado. In een hybride app is dat ook wel na te bootsen, maar als je de beleving net zo goed wilt krijgen als bij native (en dat verdient een veelgebruikte app als die van PostNL) dan ben je uiteindelijk duurder uit dan met native apps voor iOS en Android.
+
+Simpel is moeilijk
+Complex is daarentegen heel makkelijk. Daarmee bedoelen we dat het moeilijk is om een uitgebreide app te maken die simpel in gebruik is. En makkelijk om ‘m complex in gebruik te maken. Zeker omdat onder water de wereld van postbezorging verrassend ingewikkeld blijkt te zijn. In de happy flow alleen al heb je ontzettend veel sporen. In de ene situatie moet het eerste adres vermeld worden, in de andere situatie het tweede, in weer een andere situatie mag de naam er niet op, terwijl dat in de andere cruciaal is, om maar een paar voorbeelden te noemen. En dan hebben we het nog niet eens over de unhappy flow. En laat dat nou de flow zijn die we bij Q minstens net zo belangrijk vinden.
+
+De kunst is om deze complexiteit te verbergen voor de gebruiker. Net als bij een mechanisch horloge biedt de PostNL app een simpel scherm dat een explosie aan complexiteit verbergt.
+

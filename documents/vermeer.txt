@@ -1,0 +1,35 @@
+DICHTER BIJ JOHANNES VERMEER
+
+Voor het Rijksmuseum bedachten en maakten we met onze ultra-res storytellingtool Micrio een online experience bij de grote overzichtstentoonstelling rond Johannes Vermeer, waardoor z'n werken tot in het kleinste detail zijn te ervaren.
+
+Klant: Rijksmuseum
+Branche: Musea en cultuur
+Soort werk: Web
+Tech stack: C#, TypeScript, WebAssembly, Azure
+Lancering: 2023
+Samen met: Fabrique
+Bekijk online: https://rijksmuseum.nl/johannes-vermeer
+Awards: Webby Awards 2023
+
+Begin 2023 heeft het Rijksmuseum 't grootste aantal Vermeer-schilderijen ooit bijeengebracht. Speciaal voor deze overzichtstentoonstelling maakten we met het museum en designparter Fabrique een hoogwaardige online ontdekkingstocht door alle Vermeer-werken, verteld door Stephen Fry en Joy Delima. Nog hetzelfde jaar werd de interactive onderscheiden met twee Webby Awards, de belangrijkste internetprijs ter wereld.
+
+Virtuele tentoonstelling
+Ter ondersteuning van het grootste Vermeer-overzicht ooit wilde het Rijksmuseum ook een virtuele tentoonstelling ontwikkelen, vergelijkbaar met de interactieve webexperience die we eerder hadden gemaakt rond Rembrandts Nachtwacht. De online ontdekkingstocht door Vermeers werk en leven zou net zo indrukwekkend moeten zijn als de tentoonstelling in het museum. En dat allemaal binnen de bestaande Rijksmuseum-website die we twee jaar eerder bouwden. Een perfect klusje voor onze ultraresolutie storytellingtool Micrio!
+
+Meer Vermeers online dan in het museum
+In andere experiences, zoals Tuin der lusten, hebben we steeds de focus gelegd op één afzonderlijk werk. Na een eerste haalbaarheidsonderzoek zijn we voor Dichter bij Johannes Vermeer juist op zoek gegaan naar het overzicht. Vermeer liet een opvallend klein oeuvre na. Er zijn nog 37 werken van zijn hand bekend. Verstilde, introverte scènes vol overtuigend illusionisme. De Vermeer-special toont al deze 37 schilderijen in hi-res beelden. Naast de 28 werken uit de tentoonstelling zijn ook de overige negen aan Vermeer toegeschreven schilderijen opgenomen. Online zijn dus meer Vermeers te bewonderen dan in het museum zelf!
+
+Ultra-res foto's
+De 37 schilderijen worden in de Vermeer-experience allemaal naast elkaar gebracht in de webbrowser van de bezoeker. Meerdere schilderijen zijn te bekijken op een ultra hoge resolutie van 5 micron (digitaliseringsresolutie). Dat is even gedetailleerd als de foto van De Nachtwacht die het Rijksmuseum eerder publiceerde. Hierdoor kan ook bij schilderijen van Vermeer zo ver worden ingezoomd, dat de minutieuze pigmentdeeltjes in de verf haarscherp zichtbaar worden. En dat allemaal zonder dat de performance er onder lijdt, ook niet op mobiel.
+
+Online tours door Stephen Fry en Joy Delima
+De online tentoonstelling zet door middel van beweging en specifieke uitsnedes de schilderijen steeds op andere manieren naast elkaar, waardoor je als bezoeker de thema's van de schilder ontdekt. Terugkerende voorwerpen zoals parels, gordijnen, wandkaarten maar ook dezelfde lichtval komen naar voren. Daarnaast ontdek je ook de verschillende emoties van verstilling en verwondering in de groepen schilderijen. Vanaf het eerste moment zorgt de beweging voor een sprekend verhaal, waarbij de user interface snel naar de achtergrond verdwijnt. Je kunt daarbij zelf ronddwalen door de virtuele expositie of je laten leiden door de Britse acteur Stephen Fry en de Nederlandse actrice Joy Delima die allebei een tour hebben ingesproken. Per schilderij vertellen zij een verhaal vol details en wetenswaardigheden.
+
+Zelf aan de slag
+Bezoekers kunnen daarnaast ook zelf schilderijen vergelijken, zoeken naar overeenkomsten en bijzonderheden in het werk van Vermeer en zo hun eigen Vermeer verhaal maken en delen. We hebben het daarbij mogelijk gemaakt om het grid met de 37 schilderijen moeiteloos in te delen of een eigen verzameling te maken. Allemaal door vol in te zetten op de krachtigste features van onze Micrio-viewer.
+
+Awards
+De Vermeer-interactive won in 2023 twee Webby Awards, ook wel de 'Oscars van het internet' genoemd. Tussen 14.000 ingezonden projecten uit meer dan 70 landen beoordeelde de jury Dichter bij Johannes Vermeer als beste in de categorieën 'Websites - Cultural Institutions' en 'Virtual experiences - Arts, Fashion, Retail & Culture'.
+
+"Dit is een van de beste virtuele tentoonstellingen die ik ooit heb gezien, en ik heb er veel gezien."
+The History Blog

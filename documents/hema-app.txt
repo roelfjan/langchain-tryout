@@ -1,0 +1,45 @@
+HEMA-APP
+Samen met HEMA en Fabrique bouwden we een nieuwe app waarin dit loyaltyprogramma gecombineerd wordt met e-commerce: een native shop gericht op maximale conversie, stabiliteit en snelheid.
+
+Klant: HEMA
+Branche: E-Commerce en retail
+Soort werk: App, Backend
+Tech stack: Swift, Kotlin, Java, NodeJS
+Lancering: 2020
+Samen met: Fabrique, Polteq, Emakina
+
+Een team van specialisten
+Bij Q42 geloven we erg in het 'schoenmaker blijf bij je leest'-principe. Wij zijn specialisten: we bouwen apps en websites en alles daaromheen. We zoeken altijd naar het scherpste snijvlak van nieuwe technologie en optimale ervaring voor de eindgebruiker. We zijn dus vooral bouwers. Maar wel bouwers die keihard vechten voor de eindgebruiker.
+Zoals voor ons gebruikelijk, zochten we ook voor deze opdracht samenwerking met andere specialisten: in dit geval Fabrique voor het ontwerp en Polteq voor het testen. Fabrique was al eerder betrokken bij het ontwerpen van de HEMA-website en is als e-commerce specialist ongekend goed in ontwerp voor optimale merkbeleving en conversie. Polteq is al jaren onze trouwe partner als het gaat om het systematisch en grondig doortesten van apps en sites. Hun softwaretesters zijn bijna irritant goed in het vinden edge cases en bugs. Precies wat je wilt bij een app voor zo'n gerenommeerd merk met zoveel actieve gebruikers.
+
+De loyalty-app
+Eerst vernieuwden we de loyalty-app. In april 2020 ging die probleemloos live. De verbeteringen zaten vooral in de stabiliteit en snelheid van de app. Maar natuurlijk was er ook ruimte voor een solide UX en features die het alledaagse gebruik leuker en makkelijker maken, zoals het scoreboard voor je punten. Of de rookworstanimatie die getoond wordt als loader.
+
+Native shopping
+Daarna werd de focus verlegd naar het shoppingdeel. Vroeger linkte de winkeltab van de app naar de HEMA-website. Hoewel die prima werkt, kun je de shopervaring vele malen vriendelijker en aantrekkelijker maken. Hoe? Door het winkelen echt ín de app te laten plaatsvinden.
+
+Optimale conversie
+Bij een e-commerce app ligt de focus uiteraard op optimale conversie. Voor de gebruiker betekent dat vooral: snelle, naadloze overgangen en een heel logisch aanvoelende UX. Die bereik je door zo dicht mogelijk bij de interactiepatronen van het native OS te blijven. De keuze voor het bouwen van native iOS- en Android-apps was daarmee snel gemaakt. Om wel optimaal wendbaar te blijven introduceerden we het principe van server driven UI.
+
+Server driven UI
+Server driven UI combineert het beste van twee werelden: de UX-kwaliteit van native met de snelheid en flexibiliteit van crossplatform. Oftewel: de optimale werking van aparte native applicaties gekoppeld aan het gemak van hybride development. Bij deze setup wordt er een zogenaamde 'Backend for Frontend' (BFF) gebouwd. Dat is een laag achter de Android- en iOS-app waar zich álle logica bevindt, van businesslogica tot UI-componenten. De apps zijn in deze constellatie dus relatief 'dom'. Ze renderen wat de server hen vertelt.
+
+Het grote voordeel
+Het grote voordeel is dat wijzigingen in de twee apps (Android en iOS) maar op één centrale plaats gemaakt hoeven te worden: namelijk in de BFF. Dat betekent ook dat aanpassingen in de apps gedaan kunnen worden zónder dat er een nieuwe release nodig is. Een gigantisch voordeel voor optimalisatie, bijvoorbeeld A/B-testen.
+Bovendien kunnen op deze manier de appontwikkelaars zich richten op wat zij het allerbeste kunnen: het implementeren van een hoogstaande UI die naadloos aansluit op het OS, terwijl anderen zich druk maken over het implementeren van complexe businesslogica.
+Q42 is voorloper op het gebied van server driven UI. Al in 2018 implementeerden we dit in de Primephonic-app. Sindsdien gebruiken we deze aanpak steeds vaker, ook bij bestaande apps zoals die van PostNL.
+
+Lekker winkelen
+Het native shopping deel van de HEMA-app focust op gebruiksvriendelijkheid met de zo kenmerkende HEMA-eenvoud. Er is veel aandacht besteed aan het snel en soepel laden van lange productpagina's maar bijvoorbeeld ook aan het selecteren van een product in een bepaalde maat en kleur. Daarnaast zijn veel gevraagde functionaliteiten, zoals een favorietenlijst, toegevoegd.
+
+Stijging in conversie én waardering
+Het resultaat mag er wezen: een prachtige app, soepel in gebruik en, op het oog, heerlijk eenvoudig. En dat werkt! Sinds de lancering steeg het aantal actieve gebruikers naar meer dan 800.000 per maand, groeide de conversie en zagen we de waardering van de HEMA-fan terug in de app store-ratings. Daar doen we het voor!
+
+Optimaliseren
+En nee, natuurlijk zijn we nog niet klaar. Sterker nog, nu begint het pas. We gaan samen met HEMA heel goed kijken wat de app in de echte wereld doet, hoe gebruikers er op reageren en wat er gebeurt in de conversiefunnels. Vervolgens optimaliseren we met de 'validated learning'-methode. Daar gaat de server driven UI-opzet ons enorm bij helpen!
+
+Awards
+De HEMA-app won in 2021 een gouden Dutch Interactive Award. De DIA zijn dé prijzen voor het allerbeste interactieve online werk van Nederlandse bureaus en worden sinds 2010 jaarlijks uitgereikt. De HEMA-app kreeg de onderscheiding in de categorie E-commerce, waarbij de jury de hoge kwaliteit en de innovatieve technologie prees.
+
+"De jury deelt de gouden beoordeling uit aan een technisch hoogstaande case waarin met innovatieve nieuwe technologie werd gewerkt. Het resultaat mag er zijn en is meer 'on par' gebracht met wat de klant gewend is van de grote wereldwijde platformen. Dit zijn prachtige stappen voor een zeer sterk merk."
+Juryrapport Dutch Interactive Awards 2021
